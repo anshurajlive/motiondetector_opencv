@@ -23,3 +23,4 @@ it means there is a new object in our frame.
 
 For Complete explanation go to this link : 
 https://medium.com/@anshurajlive/creating-motion-object-detector-using-opencv-and-python-on-windows-38a15b23f468
+
